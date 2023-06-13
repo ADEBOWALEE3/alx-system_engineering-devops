@@ -52,3 +52,6 @@ Write a script that changes the owner of the file hello to betty only if it is o
 
 [103-Star_Wars](103-Star_Wars)
 Write a script that will play the StarWars IV episode in the terminal.
+
+[0-hello_world](0-hello_world)
+Write a script that prints “Hello, World”, followed by a new line to the standard output.
