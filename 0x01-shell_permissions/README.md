@@ -30,4 +30,7 @@ Write a script that sets the permission to the file hello as follows
 Write a script that sets the mode of the file hello to thisWrite a script that sets the mode of the file hello to thisWrite a script that sets the mode of the file hello to thisWrite a script that sets the mode of the file hello to this
 
 [10-mirror_permissions](10-mirror_permissions)
-Write a script that sets the mode of the file hello the same as olleh’s mode
+Write a script that sets the mode of the file hello the same as hello
+
+[11-directories_permissions](11-directories_permissions)
+Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
